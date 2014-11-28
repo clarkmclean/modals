@@ -17,7 +17,7 @@ To create a url that initiates a popup on arrival:
       Integer     height
       Boolean     imageviewer
       Integer     mdCloseDelay:   milliseconds
-      String      title:          First /<h1/> in contents
+      String      title:          First h1 in contents of target
       
  3. Delimiters for name/value are '+' and '_'. (i.e. { name1 }_{ value1 }+{ name2 }_{ value2 })
  
